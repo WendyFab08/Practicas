@@ -4,7 +4,7 @@
 package mx.com.softgame.poo1game.personajes;
 public class Personaje{
 	//atributos
-	public String nombre;
+	private String nombre;
 	private int edad;
 	//constructor
 	public Personaje (String nombre){
